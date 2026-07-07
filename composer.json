@@ -1,0 +1,12 @@
+{
+    "name": "aaron/finance-tracker",
+    "authors": [
+        {
+            "name": "Aaron Thomas",
+            "email": "aaronth1756@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^7.0"
+    }
+}
